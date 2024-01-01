@@ -1,5 +1,5 @@
 <h1>
-Projeto Super Mario
+Super Mario
 </h1>
 
 <h2>
